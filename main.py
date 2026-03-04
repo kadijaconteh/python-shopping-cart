@@ -3,7 +3,7 @@ cart = []
 running = True
 
 while running:
-    print("\n****Welcome to Dija's Shore****")
+    print("\n****Welcome to Dija's Store****")
     print("1. View Products")
     print("2. Add to Cart")
     print("3. View Cart")
